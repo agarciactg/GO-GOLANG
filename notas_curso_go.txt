@@ -1,0 +1,6 @@
+comando para compilar go
+    - go build <ruta del archivo main> src/main.go
+
+correr go sin compilar <No es la mejor opción>
+    - go run <ruta del archivo main> src/main.go
+
