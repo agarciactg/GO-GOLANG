@@ -4,3 +4,5 @@ comando para compilar go
 correr go sin compilar <No es la mejor opción>
     - go run <ruta del archivo main> src/main.go
 
+comando para ponder GO de manera global
+    - export PATH=$PATH:/usr/local/go/bin
